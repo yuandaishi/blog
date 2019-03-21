@@ -7,4 +7,4 @@
 3. [JS异步机制](https://github.com/yuandaishi/blog/issues/3)
 4. [foreach,map,reduce,filter,every,some的用法区别](https://github.com/yuandaishi/blog/issues/4)
 5. [JS内置对象，内置构造函数的一些总结](https://github.com/yuandaishi/blog/issues/5)
-6. [JS内置对象，内置构造函数的一些总结](https://github.com/yuandaishi/blog/issues/5)
+6. [for循环和逗号运算符](https://github.com/yuandaishi/blog/issues/6)
