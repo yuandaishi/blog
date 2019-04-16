@@ -14,6 +14,7 @@
 2. [说一说dom的properties和attributes](https://github.com/yuandaishi/blog/issues/8)
 # webpack相关
 1. [如何写一个loader](https://github.com/yuandaishi/blog/issues/9)
+2. [关于externals和多次import同一个包的问题](https://github.com/yuandaishi/blog/issues/13)
 # nodejs相关
 1. [es6模块和common.js模块化之间的区别](https://github.com/yuandaishi/blog/issues/10)
 # HTTP相关
