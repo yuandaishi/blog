@@ -18,5 +18,6 @@
 2. [关于externals和多次import同一个包的问题](https://github.com/yuandaishi/blog/issues/13)
 # nodejs相关
 1. [es6模块和common.js模块化之间的区别](https://github.com/yuandaishi/blog/issues/10)
+2. [commonJS规范exports值的一些注意点](https://github.com/yuandaishi/blog/issues/15)
 # HTTP相关
 1. [tcp和http的关系](https://github.com/yuandaishi/blog/issues/11)
