@@ -16,7 +16,8 @@
 # webpack相关
 1. [如何写一个loader](https://github.com/yuandaishi/blog/issues/9)
 2. [关于externals和多次import同一个包的问题](https://github.com/yuandaishi/blog/issues/13)
-2. [关于webpack配置babel的一些总结](https://github.com/yuandaishi/blog/issues/16)
+3. [关于webpack配置babel的一些总结](https://github.com/yuandaishi/blog/issues/16)
+4. [关于module.exports的一些见解](https://github.com/yuandaishi/blog/issues/17)
 # nodejs相关
 1. [es6模块和common.js模块化之间的区别](https://github.com/yuandaishi/blog/issues/10)
 2. [commonJS规范exports值的一些注意点](https://github.com/yuandaishi/blog/issues/15)
