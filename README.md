@@ -10,6 +10,7 @@
 6. [for循环和逗号运算符](https://github.com/yuandaishi/blog/issues/7)
 7. [关于js'==='机制的个人见解](https://github.com/yuandaishi/blog/issues/12)
 8. [js异步函数async个人总结](https://github.com/yuandaishi/blog/issues/14)
+8. [es6类super的一些总结](https://github.com/yuandaishi/blog/issues/18)
 # 浏览器相关机制
 1. [缓存机制](https://github.com/yuandaishi/blog/issues/6)
 2. [说一说dom的properties和attributes](https://github.com/yuandaishi/blog/issues/8)
