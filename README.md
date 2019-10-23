@@ -13,6 +13,7 @@
 8. [es6类super的一些总结](https://github.com/yuandaishi/blog/issues/18)
 9. [圆括号运算符](https://github.com/yuandaishi/blog/issues/19)
 10. [查看上传预览图的2种方法](https://github.com/yuandaishi/blog/issues/22)
+11. [promise和异步函数async的一些备注](https://github.com/yuandaishi/blog/issues/23)
 # 浏览器相关机制
 1. [缓存机制](https://github.com/yuandaishi/blog/issues/6)
 2. [说一说dom的properties和attributes](https://github.com/yuandaishi/blog/issues/8)
