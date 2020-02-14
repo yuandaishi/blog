@@ -28,7 +28,8 @@
 1. [es6模块和common.js模块化之间的区别](https://github.com/yuandaishi/blog/issues/10)
 2. [commonJS规范exports值的一些注意点](https://github.com/yuandaishi/blog/issues/15)
 3. [引入相对路劲，为什么需要加./的解释](https://github.com/yuandaishi/blog/issues/20)
-2. [path模块的join方法和resolve方法的区别](https://github.com/yuandaishi/blog/issues/28)
+4. [path模块的join方法和resolve方法的区别](https://github.com/yuandaishi/blog/issues/28)
+5. [event模块的不同文件中调用使用,不触发的问题](https://github.com/yuandaishi/blog/issues/29)
 # HTTP相关
 1. [tcp和http的关系](https://github.com/yuandaishi/blog/issues/11)
 # REACT结合TYPESCRIPT，HOOK开发相关
