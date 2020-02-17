@@ -31,6 +31,7 @@
 4. [path模块的join方法和resolve方法的区别](https://github.com/yuandaishi/blog/issues/28)
 5. [event模块的不同文件中调用使用,不触发的问题](https://github.com/yuandaishi/blog/issues/29)
 6. [npm node_modules文件夹的层级处理以及版本前符号~和^](https://github.com/yuandaishi/blog/issues/30)
+7. [express中间件的理解](https://github.com/yuandaishi/blog/issues/31)
 # HTTP相关
 1. [tcp和http的关系](https://github.com/yuandaishi/blog/issues/11)
 # REACT结合TYPESCRIPT，HOOK开发相关
