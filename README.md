@@ -15,6 +15,7 @@
 10. [查看上传预览图的2种方法](https://github.com/yuandaishi/blog/issues/22)
 11. [promise和异步函数async的一些备注](https://github.com/yuandaishi/blog/issues/23)
 12. [关于promise，then，catch的总结](https://github.com/yuandaishi/blog/issues/25)
+13. [async方法最好是用try，catch的写法来写](https://github.com/yuandaishi/blog/issues/34)
 # 浏览器相关机制
 1. [缓存机制](https://github.com/yuandaishi/blog/issues/6)
 2. [说一说dom的properties和attributes](https://github.com/yuandaishi/blog/issues/8)
